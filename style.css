@@ -24,27 +24,41 @@
 
 .layout-1 #topHeader{
     background-color:red;
-
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
 }
 
 .layout-1 nav{
     background-color:blue;
+    text-align: center;
 
 }
 
 .layout-1 section{
     background-color:green;
+    float: left;
+    width: 70%;
 }
 
 .layout-1 #sectionHeader{
     background-color:yellow;
+    height: 35px;
+    font-size: 17px;
+    padding: 7px;
  }
 
 .layout-1 article{
     background-color:orange;
+    padding: 15px;
 }
 .layout-1 aside{
     background-color:purple;
+    float: left;
+    padding: 20px;
+    height: 155px;
+    width: 30%;
+    text-align: center;
 }
 
 .layout-1 aside a{
@@ -52,14 +66,22 @@
 }
 
 .layout-1 footer{
+    clear: both;
 }
 
 #topHeader2{
     background-color:red;
-
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px
 }
 .layout-2 nav{
     background-color:blue;
+    float: left;
+    width: 10%;
+    padding: 20px;
+    text-align: center
 
 }
 
@@ -74,6 +96,7 @@
 
 .article2{
     background-color:yellow;
+    
 }
 
 .aside-content{
