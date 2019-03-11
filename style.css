@@ -91,11 +91,13 @@
 
 #content{
     background-color:green;
-    height:20px;
+    height:50px;
+    padding: 10px;
 }
 
 .article2{
     background-color:yellow;
+    padding: 10px;
     
 }
 
