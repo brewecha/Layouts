@@ -118,24 +118,37 @@
 
 .layout-3 header{
     background-color:red;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
 }
 
 #sectionHeader3{
     background-color:blue;
+    height: 50px;
 }
 
 .layout-3 nav{
     background-color:yellow;
+    float: left;
+    width: 10%;
 }
 
 .layout-3 section{
     background-color:orange;
+    width: 65%;
+    float: left;
 }
 
 .layout-3 aside{
     background-color:purple;
+    float: right;
+    width: 25%;
 }
 
 #pageFooter{
     background-color:green;
+    width: 100%;
+    float: right;
 }
