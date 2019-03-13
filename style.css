@@ -55,9 +55,10 @@
 .layout-1 aside{
     background-color:purple;
     float: left;
+    width: 30%;
     padding: 20px;
     height: 155px;
-    width: 30%;
+    
     text-align: center;
 }
 
@@ -67,6 +68,7 @@
 
 .layout-1 footer{
     clear: both;
+    text-align: center;
 }
 
 #topHeader2{
@@ -91,21 +93,17 @@
 
 #content{
     background-color:green;
-    height:50px;
-    padding: 10px;
+
 }
 
 .article2{
     background-color:yellow;
-    padding: 10px;
-    
 }
 
 .aside-content{
     background-color:purple;
     float: right;
-    width: 10%;
-
+    width: 20%;
 }
 
 .aside-info{
@@ -121,6 +119,7 @@
 }
 
 .layout-2 footer{
+    text-align: center;
 }
 
 .layout-3 header{
